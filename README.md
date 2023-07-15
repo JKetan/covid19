@@ -1,6 +1,6 @@
 # covid19
 Covid19 Detection using LBP and Machine Learning
-- Designed and developed an algorithm to detect skin cancer from lesion images with accuracy of 82.4%.
+- Classified chest X-Ray images for pneumonia and COVID-19 using five machine learning models and their ensembles with a high classification accuracy of 89.17%.
 - Used a dataset of 305 chest X-Ray images with covid19, pneumonia and healthy lungs.
 - Performed feature extraction using Local Binary Patterns (LBP) and obtained feature vectors.
 - Experimented with the radius and number of neighbors parameters of the algorithm for parameter tuning.
